@@ -16,6 +16,6 @@ Once done:
 
 Appart from that, calling Android is not that difficult ;)
 
-![sendSMS on Xiaomi Redmi](https://raw.githubusercontent.com/mbruel/sendSMS/master/pics/sendSMS.jpg)
+![sendSMS on Xiaomi Redmi](https://raw.githubusercontent.com/mbruel/sendSMS/master/pics/sendSMS.png)
 
 Cheers!
